@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: Python file handling.
+Line 3: Number 12345. 
+Line 4: This is a new line.
+Line 5: This is another new line.
+Line 6: This is the last line.
